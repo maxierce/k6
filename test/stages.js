@@ -5,11 +5,11 @@ import { check } from 'k6';
 export const options= {
     stages:[{
         duration: "60s",
-        target: 10
+        target: 190
     },
     {
      duration: "300s",
-     target:10
+     target:120
     },
     {
     duration: "60s",
