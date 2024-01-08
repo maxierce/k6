@@ -7,7 +7,7 @@ export const options= {
         target: 100
     },
     {
-     duration: "4m",
+     duration: "1m",
      target:100
     },
     {
@@ -19,7 +19,7 @@ export const options= {
      target:150
    },
    {
-   duration: "4m",
+   duration: "1m",
     target:100
   }
 ]
